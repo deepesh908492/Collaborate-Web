@@ -147,3 +147,4 @@ This version of the `README.md` includes only the essentials for running the pro
 
 Let me know if you need any further modifications!
 ```
+https://cdn.shopify.com/videos/c/o/v/0c27bdb2ece14819930ef00505137b71.mp4
